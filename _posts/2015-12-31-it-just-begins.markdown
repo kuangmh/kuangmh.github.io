@@ -1,5 +1,5 @@
 ---
-title: 2015
+title: 学习使用jekyll,主题使用自waynezhang（http://lhzhang.com）
 layout: post
 guid: urn:uuid:de8d598d-6f35-4c7b-ab23-1951062dadfc
 tags:
