@@ -10,9 +10,7 @@ tags:
   - misc
 ---
 
-[![Shadow](/media/files/2015/12/31/shadow.jpg)](https://www.flickr.com/photos/lhzhang/23999442826/in/dateposted-public/)
+[![Shadow](/media/files/2017-05-26/ironman.jpg)]
 
-- 完成了读书计划，最爱「1984」
-- 去成都吃了火锅，陪家人去了香格里拉，在眉山顶看了 supermoon
-- 换了份新工作，有些后悔，早换就好了
-- 克服了拖延症，在零点前发了此文
+- 通过创建博客使用jekyll,学习前端知识
+- 学习使用git和github
