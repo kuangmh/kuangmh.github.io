@@ -1,7 +1,9 @@
---- 
-title: 学习使用新的jekyll 主题模板3 
-update： 2017-05-27 18:55 
----
+---   
+title: 学习使用新的jekyll 主题模板3   
+update： 2017-05-27 18:55   
+---   
+
+
 
 ###字体  使用
 -`ThisIsMyCode()`  
