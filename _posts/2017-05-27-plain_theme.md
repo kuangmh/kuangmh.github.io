@@ -1,7 +1,8 @@
----    
-title: 新主题的使用-2  
-update： 2017-05-27 18:00  
----    
+--- 
+title: 新主题的使用-2
+update： 2017-05-26 18:00
+---
+
 
 ##数学公式编辑   
 The theme comes ready with [mathjax](https://www.mathjax.org/) support built in, allowing for both simple inline equations like $$ax^2 + bx + c = 0$$ and much more complex mathematical expressions such as equation $$\eqref{eq:sample}$$ below.
