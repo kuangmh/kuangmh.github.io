@@ -1,11 +1,19 @@
 ---
-title: 重新学习git 
+title: markdown use 
 update: 2020-04-24 19:00
 ---
 
 ## MarkdownPad pro
 **仅供学习使用**
 
+	1、modify you file and save
+	2、git add file 
+	3、git staus -s & git diff
+	4、git commit -m "your commit message"
+	5、git push
+还有很多命令待学习！
+
+## MarkdownPad PRO license key
 邮箱：
 
 Soar360@live.com
